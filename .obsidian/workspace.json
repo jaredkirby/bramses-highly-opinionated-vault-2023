@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e5f6b5eb57105214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA/Projects/CPT/CPT.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -99,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "b2837026535a9eaa",
@@ -188,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +211,6 @@
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "periodic-notes:Open today": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
@@ -209,20 +220,39 @@
       "cmdr:Linter: Lint the current file": false,
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
-      "cmdr:QuickAdd: Move Zettel to Private": false
+      "cmdr:QuickAdd: Move Zettel to Private": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "c102a50492c64997",
+  "active": "fa7779fed8ad75a1",
   "lastOpenFiles": [
-    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
+    "_PARA/Projects/CPT/CPT.md",
+    "_PARA/Projects/Projects.md",
+    "_PARA/_PARA.md",
     "README.md",
+    "Inbox/Smartphone Capture/2022-12-11--11-59-30.md",
+    "_PARA/Projects/CPT/Kanban.md",
+    "_PARA/Projects/CPT/Resources.md",
+    "_PARA/Projects/CPT/Scratchpad.md",
+    "_PARA/Projects/CPT",
+    "Computed/To Process.md",
+    "Inbox/Computer Capture/2022-12-15-14-50-23.md",
+    "Inbox/Computer Capture/2022-12-11--12-00-00.md",
+    "Untitled.md",
+    "Computed/Computed.md",
+    "Computed/CRM.md",
+    "Computed/Tasks.md",
+    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
+    "Databases/Workouts/Workouts.md",
+    "Databases/Workouts/Squats.md",
+    "Databases/Recipes/Recipes.md",
+    "Databases/Recipes/Instant Pot Fried Rice.md",
+    "Calendar/Weekly/2022-W51.md",
+    "Calendar/Weekly/2022-W51-Kanban.md",
     "Readwise-Example/Readwise-Example.md",
     "_tutorial/_tutorial.md",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
     "_PARA/Projects/rs/rs.md",
-    "_PARA/Projects/rs/Resources.md",
-    "_PARA/Projects/rs/Kanban.md",
-    "_PARA/Projects/rs/Scratchpad.md",
-    "202212151455.md"
+    "_PARA/Projects/rs/Resources.md"
   ]
 }

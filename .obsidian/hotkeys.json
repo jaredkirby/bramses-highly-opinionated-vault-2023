@@ -54,7 +54,6 @@
       "key": "Q"
     }
   ],
-  "file-explorer:new-file": [],
   "zk-prefixer": [
     {
       "modifiers": [
@@ -96,6 +95,15 @@
         "Shift"
       ],
       "key": "'"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
     }
   ]
 }

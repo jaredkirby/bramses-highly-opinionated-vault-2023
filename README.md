@@ -434,7 +434,7 @@ Related philosophies:
 
 *Antifragility* is a concept by Nassim Taleb that states that certain systems can get **stronger** in response to minor crises. Antifragile systems don't just recover or rebound from stressors, they thrive. Examples of antifragile systems include animal muscles that get stronger when put under stress. The immune system is another example of an Antifragile system.
 
-In BHOV-2023, Antifragility means that as your vault evolves you shouldn't feel ashamed or embarassed if a project fails, or an experiment with a new structure backfires. One of the top priorites of BHOV-2023 is to be flexible and adapt to **your system**. Remember, *many/all of the items I'm suggesting are optional*, but the stress of trying to make them adapt into your world view will make you and BHOV-2023 a stronger system. Fight what you see, be skeptical, make it better!
+In BHOV-2023, Antifragility means that as your vault evolves, you shouldn't feel ashamed or embarrassed if a project fails, or an experiment with a new structure backfires. One of the top priorities of BHOV-2023 is to be flexible and adapt to **your system**. Remember, *many/all of the items I'm suggesting are optional*, but the stress of trying to make them adapt to your worldview will make you and BHOV-2023 a stronger system. Fight what you see, be skeptical, and make it better!
 
 > **Absorb what is useful, reject what is useless, add what is essentially your own**
 > - Bruce Lee
@@ -483,11 +483,11 @@ Related Philosophies:
 
 **Linking your Thinking** by Nick Milo is the concept of using emergence to discover relationships between your notes.
 
-I think of MoCs as directionally flexible Table of Contents. You can gather together a case from across your notes and link them in one space.
+I think of MoCs as directionally flexible Table of Contents. You can assemble a case from across your notes and link them in one space.
 
-Automatically, Folder Notes include the Waypoint plugin which will keep a live version of all children in a folder. This is great for Parent level folders like `Projects` and `Archive`.
+Automatically, Folder Notes include the Waypoint plugin, which will keep a live version of all children in a folder. This is great for Parent level folders like `Projects` and `Archive`.
 
-Manually, you may also look to create your own Maps of Content (MOCs) from a particular tag, or create a Zettelkasten note that is a map of other Zettelkasten Notes. Meta!
+Manually, you may also look to create your own Maps of Content (MOCs) from a particular tag or create a Zettelkasten note that maps other Zettelkasten Notes. Meta!
 
 Plugins:
 
@@ -500,17 +500,17 @@ Now that we have examined some of the philosophies that power BHOV-2023, we get 
 
 ### The Big Three
 
-Most interactions with BHOV fall under three categories: project related work, daily notes related work, and Zettelkasten related work. Each has its own set of workflows, and particularities. Let's dive into each and see how to work with each of them.
+Most interactions with BHOV fall under three categories: project-related work, daily notes-related work, and Zettelkasten-related work. Each has its own set of workflows and particularities. Let's dive into each and see how to work with each.
 
 #### From Capture To Complete Thought (Zettelkasten)
 
-There are numerous ways that new information comes into the BHOV-2023 vault. As long as we can trust that items will enter our vault, we can deal with them whenever. Since obsidian is folder backed, anything that can insert a file into BHOV-2023  will show up in your vault. If a note has the \#to-process tag, it will show up in `Computed/To Process`. 
+There are numerous ways that new information comes into the BHOV-2023 vault. As long as we can trust that items will enter our vault, we can deal with them whenever. Since obsidian is folder-backed, anything that can insert a file into BHOV-2023  will show up in your vault. If a note has the \#to-process tag, it will show up in `Computed/To Process`. 
 
-When you open a note that needs processing, take a second to think about the note that you are looking at. Is it missing information or context that you can provide? Is it too long? Can it be shortened down to something more pithy? 
+When you open a note that needs processing, take a second to think about the note that you are looking at. Is it missing information or context that you can provide? Is it too long? Can it be shortened to something more pithy? 
 
-To me, a note is "Zettelkastened" once it: conforms to the [Zettelkasten](#zettelkasten) format and you wouldn't mind putting in a letter and sealing up in an envelope (atomic).
+To me, a note is "Zettelkastened" once it: conforms to the [Zettelkasten](#zettelkasten) format, and you wouldn't mind putting it in a letter and sealing it up in an envelope (atomic).
 
-Finally highlight the text that you just created and cut/copy it to clipboard. Once in the clipboard hit `ctrl-n` to make a new note,  and templater it will automatically create a Zettelkasten note. Make sure to go back to the note you created and link the newly processed note!
+Finally, highlight the text you created and cut/copy it to the clipboard. Once in the clipboard, hit `ctrl-n` to make a new note, and templater it will automatically create a Zettelkasten note. Make sure to go back to the note you created and link the newly processed note!
 
 #### Project Management Like a Pro (Projects)
 
@@ -518,9 +518,9 @@ Projects are goals that have a particular end state, whether that is a deadline 
 
 A project you are currently working on will go under the `_PARA/Projects` folder. You can use the [ribbon commands](#ribbon-commands) to interface directly with active projects with the help of macros and user scripts.
 
-When a project is finished, the folder is moved to the `_PARA/Archive` folder. For future projects if there was a particularly helpful resource, you can "summon" it by looking in the Resources of your Archived project.
+When a project is finished, the folder is moved to the `_PARA/Archive` folder. For future projects, if there is a particularly helpful resource, you can "summon" it by looking in the Resources of your Archived project.
 
-Publishing the WIP resources is a great way to show your work, without having to stress about making a brand new format!
+Publishing the WIP resources is a great way to show your work, without having to stress about making a brand-new format!
 
 > Once a day, after you’ve done your day’s work, go back to your documentation and find one little piece of your process that you can share. Where you are in your process will determine what that piece is. If you’re in the very early stages, share your influences and what’s inspiring you. If you’re in the middle of executing a project, write about your methods or share works in progress. If you’ve just completed a project, show the final product, share scraps from the cutting-room floor, or write about what you learned. If you have lots of projects out into the world, you can report on how they’re doing—you can tell stories about how people are interacting with your work. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B00GU2RGGI&location=211))
 >
@@ -654,11 +654,11 @@ Since BHOV-2023 is catered towards immediate processes, you may be wondering whe
 
 ### How To Search Effectively
 
-Search is a critical component to a well functioning vault. Putting these notes in matters little if you can't find them later. Search can be split into two steps (broadly): the **index step**, and the **query step**.
+Search is a critical component of a well-functioning vault. Putting these notes in matters little if you can't find them later. Search can be split into two steps (broadly): the **index step**, and the **query step**.
 
-The index step is where you have the most control. Make sure to populate your notes (especially the Zettels) with tags that you'll remember later. Choose a reasonable and helpful title, and add an alias or two, and split content into helpful headers!
+The index step is where you have the most control. Make sure to populate your notes (especially the Zettels) with tags that you'll remember later. Choose a reasonable and helpful title, add an alias or two, and split the content into helpful headers!
 
-The query step is more out of your hands but you can do things to improve your experience. Know if you are fuzzy searching or searching for exact keywords before you make you make a query. Leverage quotes (\"\") for exact searching, use Omnisearch for fuzzy searches. If you don't like the results you recieve from Omnisearch, try tweaking weights in the settings.
+The query step is more out of your hands but you can do things to improve your experience. Know if you are fuzzy searching or searching for exact keywords before you make a query. Leverage quotes (\"\") for exact searching, and use Omnisearch for fuzzy searches. If you don't like the results you receive from Omnisearch, try tweaking weights in the settings.
 
 ## External Tools
 
