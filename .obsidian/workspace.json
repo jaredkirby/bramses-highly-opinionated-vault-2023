@@ -59,6 +59,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bd038cf07bb39067",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -86,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,31 +188,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
-      "cmdr:QuickAdd: Create New Project": false,
-      "publish:Publish changes": true,
-      "cmdr:QuickAdd: Add to Project Kanban": false,
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "obsidian-map-view:Open map view": false,
       "periodic-notes:Open today": false,
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-map-view:Open map view": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:QuickAdd: Create New Project": false,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
       "cmdr:Linter: Lint the current file": false,
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
-      "open-vscode:VSCode": false,
-      "cmdr:QuickAdd: Move Zettel to Private": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "cmdr:QuickAdd: Move Zettel to Private": false
     }
   },
-  "active": "885911e69901227d",
+  "active": "c102a50492c64997",
   "lastOpenFiles": [
     "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
     "README.md",

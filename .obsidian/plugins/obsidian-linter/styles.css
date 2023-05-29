@@ -54,7 +54,7 @@
   background-color: var(--interactive-accent) !important;
   color: var(--text-on-accent);
   padding: 4px 9px !important;
-  max-width: 200px !important;
+  max-width: 100% !important;
   border: 1px solid var(--background-modifier-border);
   border-radius: 8px 8px 2px 2px;
   border-bottom: 0px;
@@ -140,4 +140,14 @@
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+/**
+* Full-width text areas
+*/
+textarea.full-width {
+  width: 100%;
+  min-height: 10em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
 }
