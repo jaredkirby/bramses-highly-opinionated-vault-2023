@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md"
+                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md"
               }
             }
           },
@@ -239,10 +239,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e7f859140d1e561",
+  "active": "885911e69901227d",
   "lastOpenFiles": [
-    "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
+    "Databases/Prompt Library/Learning Prompts/Learning French Dialogue - Learning Prompt.md",
+    "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
+    "Databases/Prompt Library/Document Analysis Prompts",
+    "Databases/Prompt Library/Learning Prompts/Sentence-by-Sentence Critique - Learning Prompt.md",
+    "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md",
+    "Databases/Prompt Library/Learning Prompts",
     "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+    "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
     "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md",
     "Databases/Prompt Library/Framework Prompts",
@@ -267,10 +273,6 @@
     "Computed/Computed.md",
     "Databases/Prompt Library/Tool Prompts",
     "Databases/Prompt Library",
-    "Computed/CRM.md",
-    "Computed/Tasks.md",
-    "Computed/Trackers.md",
-    "Computed/Workouts.md",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-19-10.png",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-19-28.png",
