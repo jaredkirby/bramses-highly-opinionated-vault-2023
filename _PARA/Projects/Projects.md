@@ -6,7 +6,11 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 ---
 
 %% Begin Waypoint %%
-- **[[CPT]]**
+- **CPL**
+	- [[CPT]]
+	- [[Kanban]]
+	- [[Resources]]
+	- [[Scratchpad]]
 - **[[Test Project]]**
 - **[[Test Project 2]]**
 

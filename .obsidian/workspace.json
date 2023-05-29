@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -24,16 +24,31 @@
           {
             "id": "e5f6b5eb57105214",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA/Projects/CPT/CPT.md",
+                "file": "_PARA/Projects/CPL/CPL.md",
                 "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6e7f859140d1e561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Readwise",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 279.5
   },
   "right": {
     "id": "b2837026535a9eaa",
@@ -128,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md"
               }
             }
           },
@@ -224,35 +239,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa7779fed8ad75a1",
+  "active": "6e7f859140d1e561",
   "lastOpenFiles": [
-    "_PARA/Projects/CPT/CPT.md",
-    "_PARA/Projects/Projects.md",
-    "_PARA/_PARA.md",
-    "README.md",
-    "Inbox/Smartphone Capture/2022-12-11--11-59-30.md",
-    "_PARA/Projects/CPT/Kanban.md",
-    "_PARA/Projects/CPT/Resources.md",
-    "_PARA/Projects/CPT/Scratchpad.md",
-    "_PARA/Projects/CPT",
+    "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
+    "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
+    "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
+    "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md",
+    "Databases/Prompt Library/Framework Prompts",
+    "Databases/Prompt Library/Prompt Template.md",
+    "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+    "Databases/Workouts/Workouts.md",
+    "Inbox/Computer Capture/2023-05-29-13-26-31.md",
     "Computed/To Process.md",
-    "Inbox/Computer Capture/2022-12-15-14-50-23.md",
-    "Inbox/Computer Capture/2022-12-11--12-00-00.md",
-    "Untitled.md",
+    "Inbox/Smartphone Capture/2022-12-11--11-59-30.md",
+    "Databases/Recipes/Instant Pot Fried Rice.md",
+    "_PARA/Projects/CPL/CPL.md",
+    "Untitled 1.md",
+    "Databases/Recipes/Recipes.md",
+    "_tutorial/Hotkeys.md",
+    "Calendar/Daily/2023-05-29.md",
+    "README.md",
+    "Databases/Recipes/Tool Prompts",
+    "Databases/CRM/CRM.md",
+    "Databases/Workouts/Squats.md",
+    "Inbox/Inbox.md",
+    "Inbox/Computer Capture/Computer Capture.md",
     "Computed/Computed.md",
+    "Databases/Prompt Library/Tool Prompts",
+    "Databases/Prompt Library",
     "Computed/CRM.md",
     "Computed/Tasks.md",
-    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
-    "Databases/Workouts/Workouts.md",
-    "Databases/Workouts/Squats.md",
-    "Databases/Recipes/Recipes.md",
-    "Databases/Recipes/Instant Pot Fried Rice.md",
-    "Calendar/Weekly/2022-W51.md",
-    "Calendar/Weekly/2022-W51-Kanban.md",
-    "Readwise-Example/Readwise-Example.md",
-    "_tutorial/_tutorial.md",
+    "Computed/Trackers.md",
+    "Computed/Workouts.md",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
-    "_PARA/Projects/rs/rs.md",
-    "_PARA/Projects/rs/Resources.md"
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-19-10.png",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-19-28.png",
+    "_tutorial/Attachments/trust author to get plugins.png",
+    "_tutorial/Attachments/The_dress_blueblackwhitegold.jpeg",
+    "_tutorial/Attachments/calendar.png",
+    "_PARA/Projects/CPL"
   ]
 }

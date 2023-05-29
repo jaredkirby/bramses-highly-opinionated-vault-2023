@@ -7,7 +7,7 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 
 %% Begin Waypoint %%
 - **[[Archived Project]]**
-	- [[Kanban]]
-	- [[Scratchpad]]
+	- [[_PARA/Archive/Archived Project/Kanban]]
+	- [[_PARA/Archive/Archived Project/Scratchpad]]
 
 %% End Waypoint %%

@@ -54,14 +54,6 @@
       "key": "Q"
     }
   ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "workspace:toggle-pin": [
     {
       "modifiers": [
@@ -99,6 +91,23 @@
   ],
   "file-explorer:new-file": [],
   "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "zk-prefixer": [
     {
       "modifiers": [
         "Ctrl"

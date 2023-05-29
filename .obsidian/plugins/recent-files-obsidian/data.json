@@ -1,40 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Prompt Pilot - Framework Prompt",
+      "path": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md"
     },
     {
-      "basename": "CPT",
-      "path": "_PARA/Projects/CPT/CPT.md"
+      "basename": "Improve Instruct - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md"
     },
     {
-      "basename": "Projects",
-      "path": "_PARA/Projects/Projects.md"
+      "basename": "Discipline of Study - DoS - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
     },
     {
-      "basename": "_PARA",
-      "path": "_PARA/_PARA.md"
+      "basename": "Chat - Framework Prompt",
+      "path": "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md"
     },
     {
-      "basename": "2022-12-11--11-59-30",
-      "path": "Inbox/Smartphone Capture/2022-12-11--11-59-30.md"
+      "basename": "Prompt Template",
+      "path": "Databases/Prompt Library/Prompt Template.md"
+    },
+    {
+      "basename": "Prompt Purpose - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+    },
+    {
+      "basename": "Workouts",
+      "path": "Databases/Workouts/Workouts.md"
+    },
+    {
+      "basename": "2023-05-29-13-26-31",
+      "path": "Inbox/Computer Capture/2023-05-29-13-26-31.md"
     },
     {
       "basename": "To Process",
       "path": "Computed/To Process.md"
     },
     {
-      "basename": "2022-12-15-14-50-23",
-      "path": "Inbox/Computer Capture/2022-12-15-14-50-23.md"
+      "basename": "2022-12-11--11-59-30",
+      "path": "Inbox/Smartphone Capture/2022-12-11--11-59-30.md"
     },
     {
-      "basename": "2022-12-11--12-00-00",
-      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+      "basename": "Instant Pot Fried Rice",
+      "path": "Databases/Recipes/Instant Pot Fried Rice.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "CPL",
+      "path": "_PARA/Projects/CPL/CPL.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Databases/Recipes/Recipes.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "_tutorial/Hotkeys.md"
+    },
+    {
+      "basename": "2023-05-29",
+      "path": "Calendar/Daily/2023-05-29.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "CRM",
+      "path": "Databases/CRM/CRM.md"
+    },
+    {
+      "basename": "Squats",
+      "path": "Databases/Workouts/Squats.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox/Inbox.md"
+    },
+    {
+      "basename": "Computer Capture",
+      "path": "Inbox/Computer Capture/Computer Capture.md"
     },
     {
       "basename": "Computed",
@@ -49,24 +97,100 @@
       "path": "Computed/Tasks.md"
     },
     {
-      "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
-      "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
+      "basename": "Trackers",
+      "path": "Computed/Trackers.md"
     },
     {
       "basename": "Workouts",
-      "path": "Databases/Workouts/Workouts.md"
+      "path": "Computed/Workouts.md"
     },
     {
-      "basename": "Squats",
-      "path": "Databases/Workouts/Squats.md"
+      "basename": "John Doe",
+      "path": "Databases/CRM/John Doe.md"
     },
     {
-      "basename": "Recipes",
-      "path": "Databases/Recipes/Recipes.md"
+      "basename": "Jane Doe",
+      "path": "Databases/CRM/Jane Doe.md"
     },
     {
-      "basename": "Instant Pot Fried Rice",
-      "path": "Databases/Recipes/Instant Pot Fried Rice.md"
+      "basename": "Weekly",
+      "path": "Templates/Weekly.md"
+    },
+    {
+      "basename": "Workout",
+      "path": "Templates/Workout.md"
+    },
+    {
+      "basename": "Zettelkasten Note",
+      "path": "Templates/Zettelkasten Note.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "Quarterly",
+      "path": "Templates/Quarterly.md"
+    },
+    {
+      "basename": "People",
+      "path": "Templates/People.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "_PARA/Projects/CPL/Kanban.md"
+    },
+    {
+      "basename": "Screenshot 2022-12-17 17-18-40",
+      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png"
+    },
+    {
+      "basename": "Screenshot 2022-12-17 17-19-10",
+      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-19-10.png"
+    },
+    {
+      "basename": "Screenshot 2022-12-17 17-19-28",
+      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-19-28.png"
+    },
+    {
+      "basename": "trust author to get plugins",
+      "path": "_tutorial/Attachments/trust author to get plugins.png"
+    },
+    {
+      "basename": "The_dress_blueblackwhitegold",
+      "path": "_tutorial/Attachments/The_dress_blueblackwhitegold.jpeg"
+    },
+    {
+      "basename": "calendar",
+      "path": "_tutorial/Attachments/calendar.png"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/CPL/Resources.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "_PARA/Projects/Projects.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
+    },
+    {
+      "basename": "2022-12-15-14-50-23",
+      "path": "Inbox/Computer Capture/2022-12-15-14-50-23.md"
+    },
+    {
+      "basename": "2022-12-11--12-00-00",
+      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "The Ancient Japanese Technique That Produces Lumber Without Cutting Trees",
+      "path": "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md"
     },
     {
       "basename": "2022-W51",
@@ -75,130 +199,6 @@
     {
       "basename": "2022-W51-Kanban",
       "path": "Calendar/Weekly/2022-W51-Kanban.md"
-    },
-    {
-      "basename": "Screenshot 2022-12-17 17-18-40",
-      "path": "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png"
-    },
-    {
-      "basename": "202212151455",
-      "path": "202212151455.md"
-    },
-    {
-      "basename": "202212090136",
-      "path": "202212090136.md"
-    },
-    {
-      "basename": "202212090137",
-      "path": "202212090137.md"
-    },
-    {
-      "basename": "202212122239",
-      "path": "202212122239.md"
-    },
-    {
-      "basename": "202212120002",
-      "path": "202212120002.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Test Project/Resources.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/Test Project 2/Resources.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "_PARA/Projects/Test Project/Test Project.md"
-    },
-    {
-      "basename": "Test Project 2",
-      "path": "_PARA/Projects/Test Project 2/Test Project 2.md"
-    },
-    {
-      "basename": "CRM",
-      "path": "Databases/CRM/CRM.md"
-    },
-    {
-      "basename": "Hotkeys",
-      "path": "_tutorial/Hotkeys.md"
-    },
-    {
-      "basename": "_tests",
-      "path": "_tests/_tests.md"
-    },
-    {
-      "basename": "202212141113",
-      "path": "Private/202212141113.md"
-    },
-    {
-      "basename": "seinfeld the art of seduction",
-      "path": "Private/Attachments/seinfeld the art of seduction.png"
-    },
-    {
-      "basename": "Instant Pot Fried Rice - Little Sunny Kitchen",
-      "path": "Attachments/Instant Pot Fried Rice - Little Sunny Kitchen.pdf"
-    },
-    {
-      "basename": "Smartphone Capture",
-      "path": "Inbox/Smartphone Capture/Smartphone Capture.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Inbox/Inbox.md"
-    },
-    {
-      "basename": "Scratchpad",
-      "path": "Inbox/Scratchpad.md"
-    },
-    {
-      "basename": "Secret Note",
-      "path": "Private/Secret Note.md"
-    },
-    {
-      "basename": "Trackers",
-      "path": "Computed/Trackers.md"
-    },
-    {
-      "basename": "2022-12-15-14-50-51",
-      "path": "Inbox/Computer Capture/2022-12-15-14-50-51.md"
-    },
-    {
-      "basename": "2022-Q4",
-      "path": "Calendar/Quarterly/2022-Q4.md"
-    },
-    {
-      "basename": "2022-12-14",
-      "path": "Calendar/Daily/2022-12-14.md"
-    },
-    {
-      "basename": "Workouts",
-      "path": "Computed/Workouts.md"
-    },
-    {
-      "basename": "Weekly",
-      "path": "Templates/Weekly.md"
-    },
-    {
-      "basename": "Zettelkasten Note",
-      "path": "Templates/Zettelkasten Note.md"
-    },
-    {
-      "basename": "People",
-      "path": "Templates/People.md"
-    },
-    {
-      "basename": "Workout",
-      "path": "Templates/Workout.md"
-    },
-    {
-      "basename": "Jane Doe",
-      "path": "Databases/CRM/Jane Doe.md"
-    },
-    {
-      "basename": "John Doe",
-      "path": "Databases/CRM/John Doe.md"
     }
   ],
   "omittedPaths": [],

@@ -9,9 +9,9 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 > [What is my purpose?](https://youtu.be/X7HmltUWXgs)
 
 %% Begin Waypoint %%
-- [[Kanban]]
-- [[Resources]]
-- [[Scratchpad]]
+- [[_PARA/Projects/Test Project 2/Kanban]]
+- [[_PARA/Projects/Test Project 2/Resources]]
+- [[_PARA/Projects/Test Project 2/Scratchpad]]
 
 %% End Waypoint %%
 
