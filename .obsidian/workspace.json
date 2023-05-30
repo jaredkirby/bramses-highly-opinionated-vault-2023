@@ -41,9 +41,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "eca7c6e974fc5688",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_PARA/Projects/CPL/Kanban.md"
               }
             }
           }
@@ -135,7 +145,7 @@
       {
         "id": "3d1a900f5bead1b0",
         "type": "tabs",
-        "dimension": 66.2962962962963,
+        "dimension": 60.457142857142856,
         "children": [
           {
             "id": "c6b1d00458e0be0c",
@@ -143,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md"
+                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
               }
             }
           },
@@ -201,7 +211,7 @@
       {
         "id": "579a57490c31c46e",
         "type": "tabs",
-        "dimension": 33.7037037037037,
+        "dimension": 39.54285714285714,
         "children": [
           {
             "id": "b6f8141af5bfec88",
@@ -241,16 +251,19 @@
   },
   "active": "6e7f859140d1e561",
   "lastOpenFiles": [
+    "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
+    "_PARA/Projects/CPL/Kanban.md",
+    "_PARA/Projects/CPL/CPL.md",
+    "Calendar/Daily/2023-05-29.md",
+    "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
     "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md",
     "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md",
     "Databases/Prompt Library/Learning Prompts/Learning French Dialogue - Learning Prompt.md",
     "Databases/Prompt Library/Learning Prompts/Sentence-by-Sentence Critique - Learning Prompt.md",
-    "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md",
     "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
     "Databases/Prompt Library/Prompt Template.md",
-    "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
     "Databases/Prompt Library/Document Analysis Prompts",
     "Databases/Prompt Library/Learning Prompts",
     "Databases/Prompt Library/Framework Prompts",
@@ -259,18 +272,15 @@
     "Computed/To Process.md",
     "Inbox/Smartphone Capture/2022-12-11--11-59-30.md",
     "Databases/Recipes/Instant Pot Fried Rice.md",
-    "_PARA/Projects/CPL/CPL.md",
     "Untitled 1.md",
     "Databases/Recipes/Recipes.md",
     "_tutorial/Hotkeys.md",
-    "Calendar/Daily/2023-05-29.md",
     "README.md",
     "Databases/Recipes/Tool Prompts",
     "Databases/CRM/CRM.md",
     "Databases/Workouts/Squats.md",
     "Inbox/Inbox.md",
     "Inbox/Computer Capture/Computer Capture.md",
-    "Computed/Computed.md",
     "Databases/Prompt Library/Tool Prompts",
     "Databases/Prompt Library",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",

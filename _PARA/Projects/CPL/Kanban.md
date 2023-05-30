@@ -7,18 +7,18 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Add existing prompts to the library
-- [ ] Sort and organize exisiting prompts
 - [ ] Brainstorm integration ideas<br>- Automatic prompt suggestions browser extension?
 
 
 ## In Progress
 
-- [ ] Create prompt library db structure
+- [ ] Sort and organize exisiting prompts
 
 
 ## Done
 
 **Complete**
+- [x] Create prompt library db structure
 
 
 ## Waiting On
