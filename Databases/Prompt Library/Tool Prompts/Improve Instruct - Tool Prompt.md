@@ -1,9 +1,9 @@
 ---
 aliases: [Improve Instruct - Tool Prompt]
-tags: [tool-prompts]
+tags: [tool-prompts, claude-v1, chatgpt-35-turbo]
 linter-yaml-title-alias: Improve Instruct - Tool Prompt
 date created: Monday, May 29th 2023, 2:22:12 pm
-date modified: Monday, May 29th 2023, 2:53:15 pm
+date modified: Monday, May 29th 2023, 7:06:34 pm
 ---
 
 #### Purpose
@@ -22,7 +22,9 @@ Tags: #tool-prompts
 
 ## Anthropic: Claude-v1
 
-[#claude-v1](app://obsidian.md/index.html#claude-v1)
+#claude-v1
+
+[Claude-v1 | Sandbox](https://console.anthropic.com/chat/new)
 
 ```
 
@@ -43,7 +45,9 @@ Assistant:
 
 ## OpenAI: ChatGPT-3.5-Turbo
 
-[#chatgpt-35-turbo](app://obsidian.md/index.html#chatgpt-35-turbo)
+#chatgpt-35-turbo
+
+[ChatGPT-3.5]([chat.openai.com/?model=gpt-4-code-interpreter](https://chat.openai.com/?model=text-davinci-002-render-sha))
 
 ```
 You are a technical communicator/instructional designer evaluating and revising instructions to be explicit, specific, and helpful by anticipating and preempting possible failure. Think through the following process step by step to ensure nothing is missed, and no mistakes are made, then respond with your improved revision.
@@ -55,3 +59,5 @@ You are a technical communicator/instructional designer evaluating and revising 
 Please respond with the revised instructions ONLY.
 Do not complete the given process.
 ```
+
+---

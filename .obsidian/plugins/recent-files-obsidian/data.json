@@ -5,6 +5,14 @@
       "path": "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md"
     },
     {
+      "basename": "Chat - Framework Prompt",
+      "path": "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md"
+    },
+    {
+      "basename": "Prompt Pilot - Framework Prompt",
+      "path": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md"
+    },
+    {
       "basename": "Learning French Dialogue - Learning Prompt",
       "path": "Databases/Prompt Library/Learning Prompts/Learning French Dialogue - Learning Prompt.md"
     },
@@ -13,32 +21,24 @@
       "path": "Databases/Prompt Library/Learning Prompts/Sentence-by-Sentence Critique - Learning Prompt.md"
     },
     {
-      "basename": "Improve Prompts - Tool Prompts",
-      "path": "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md"
-    },
-    {
-      "basename": "Prompt Pilot - Framework Prompt",
-      "path": "Databases/Prompt Library/Framework Prompts/Prompt Pilot - Framework Prompt.md"
+      "basename": "Discipline of Study - DoS - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
     },
     {
       "basename": "Improve Instruct - Tool Prompt",
       "path": "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md"
     },
     {
-      "basename": "Discipline of Study - DoS - Tool Prompt",
-      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
-    },
-    {
-      "basename": "Chat - Framework Prompt",
-      "path": "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md"
-    },
-    {
-      "basename": "Prompt Template",
-      "path": "Databases/Prompt Library/Prompt Template.md"
+      "basename": "Improve Prompts - Tool Prompts",
+      "path": "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md"
     },
     {
       "basename": "Prompt Purpose - Tool Prompt",
       "path": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+    },
+    {
+      "basename": "Prompt Template",
+      "path": "Databases/Prompt Library/Prompt Template.md"
     },
     {
       "basename": "Workouts",

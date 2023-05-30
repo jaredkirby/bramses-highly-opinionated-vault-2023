@@ -3,7 +3,7 @@ aliases: [Discussing an Essay - Document Analysis Prompts]
 tags: [claude-v1, chatgpt-35-turbo, gpt-4, prompt-template, doc-analysis-prompts]
 linter-yaml-title-alias: Discussing an Essay - Document Analysis Prompts
 date created: Monday, May 29th 2023, 2:36:00 pm
-date modified: Monday, May 29th 2023, 3:54:51 pm
+date modified: Monday, May 29th 2023, 7:07:34 pm
 ---
 
 #### Purpose
@@ -21,6 +21,8 @@ Tags: #doc-analysis-prompts
 ## Anthropic: Claude-v1
 
 #claude-v1
+
+[Claude-v1 | Sandbox](https://console.anthropic.com/chat/new)
 
 v1
 
@@ -96,6 +98,8 @@ Assistant:
 
 #chatgpt-35-turbo
 
+[ChatGPT-3.5]([chat.openai.com/?model=gpt-4-code-interpreter](https://chat.openai.com/?model=text-davinci-002-render-sha))
+
 ```
 
 ```
@@ -105,6 +109,11 @@ Assistant:
 ## OpenAI: GPT-4
 
 #gpt-4
+
+[ChatGPT-4 | Default]([chat.openai.com](https://chat.openai.com/?model=gpt-4))  
+[ChatGPT-4 | Browse]([chat.openai.com](https://chat.openai.com/?model=gpt-4-browsing))  
+[ChatGPT-4 | Code Interpreter]([chat.openai.com](https://chat.openai.com/?model=gpt-4-code-interpreter))  
+[ChatGPT-4 | Plugins]([chat.openai.com](https://chat.openai.com/?model=gpt-4-plugins))
 
 ```
 
