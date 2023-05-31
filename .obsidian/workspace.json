@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 362.5
   },
   "right": {
     "id": "b2837026535a9eaa",
@@ -145,7 +145,7 @@
       {
         "id": "3d1a900f5bead1b0",
         "type": "tabs",
-        "dimension": 60.457142857142856,
+        "dimension": 71.09872611464968,
         "children": [
           {
             "id": "c6b1d00458e0be0c",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+                "file": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+                "file": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
               }
             }
           },
@@ -211,7 +211,7 @@
       {
         "id": "579a57490c31c46e",
         "type": "tabs",
-        "dimension": 39.54285714285714,
+        "dimension": 28.90127388535032,
         "children": [
           {
             "id": "b6f8141af5bfec88",
@@ -225,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,9 +236,7 @@
       "command-palette:Open command palette": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": true,
-      "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-map-view:Open map view": false,
+      "periodic-notes:Open today": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
       "cmdr:QuickAdd: Create New Project": false,
       "cmdr:QuickAdd: Add to Project Kanban": false,
@@ -246,11 +244,15 @@
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
       "cmdr:QuickAdd: Move Zettel to Private": false,
-      "periodic-notes:Open today": false
+      "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "6e7f859140d1e561",
   "lastOpenFiles": [
+    "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+    "Databases/Prompt Library/Prompt Template.md",
     "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
     "_PARA/Projects/CPL/Kanban.md",
     "_PARA/Projects/CPL/CPL.md",
@@ -262,8 +264,6 @@
     "Databases/Prompt Library/Learning Prompts/Sentence-by-Sentence Critique - Learning Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md",
-    "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
-    "Databases/Prompt Library/Prompt Template.md",
     "Databases/Prompt Library/Document Analysis Prompts",
     "Databases/Prompt Library/Learning Prompts",
     "Databases/Prompt Library/Framework Prompts",

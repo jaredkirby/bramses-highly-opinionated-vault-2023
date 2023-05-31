@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Discipline of Study - DoS - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
+    },
+    {
       "basename": "Prompt Purpose - Tool Prompt",
       "path": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
     },
     {
-      "basename": "Discipline of Study - DoS - Tool Prompt",
-      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
+      "basename": "Prompt Template",
+      "path": "Databases/Prompt Library/Prompt Template.md"
     },
     {
       "basename": "Kanban",
@@ -47,10 +51,6 @@
     {
       "basename": "Improve Prompts - Tool Prompts",
       "path": "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md"
-    },
-    {
-      "basename": "Prompt Template",
-      "path": "Databases/Prompt Library/Prompt Template.md"
     },
     {
       "basename": "Workouts",
