@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa7779fed8ad75a1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "e5f6b5eb57105214",
             "type": "leaf",
             "pinned": true,
@@ -36,24 +22,22 @@
             }
           },
           {
-            "id": "6e7f859140d1e561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eca7c6e974fc5688",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
                 "file": "_PARA/Projects/CPL/Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "d4fa0a849b061d01",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_PARA/Projects/LLM Task Process/Kanban.md"
               }
             }
           }
@@ -153,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+                "file": "_PARA/Projects/LLM Task Process/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+                "file": "_PARA/Projects/LLM Task Process/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+                "file": "_PARA/Projects/LLM Task Process/Kanban.md"
               }
             }
           },
@@ -249,11 +233,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e7f859140d1e561",
+  "active": "d4fa0a849b061d01",
   "lastOpenFiles": [
-    "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
+    "_PARA/Projects/LLM Task Process/LLM Task Process.md",
     "_PARA/Projects/CPL/Kanban.md",
     "_PARA/Projects/CPL/CPL.md",
+    "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
+    "_PARA/_PARA.md",
+    "_PARA/Projects/CPL/Scratchpad.md",
+    "_PARA/Projects/LLM Task Process/Kanban.md",
+    "_PARA/Projects/LLM Task Process/Resources.md",
+    "_PARA/Projects/LLM Task Process/Scratchpad.md",
+    "_PARA/Projects/LLM Task Process",
+    "2023-05-31.md",
+    "_PARA/Projects/CPL/Resources.md",
+    "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md",
     "Calendar/Daily/2023-05-29.md",
     "Databases/Prompt Library/Document Analysis Prompts/Discussing an Essay - Document Analysis Prompts.md",
     "Databases/Prompt Library/Framework Prompts/Chat - Framework Prompt.md",
@@ -262,7 +256,6 @@
     "Databases/Prompt Library/Learning Prompts/Sentence-by-Sentence Critique - Learning Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Instruct - Tool Prompt.md",
     "Databases/Prompt Library/Tool Prompts/Improve Prompts - Tool Prompts.md",
-    "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md",
     "Databases/Prompt Library/Prompt Template.md",
     "Databases/Prompt Library/Document Analysis Prompts",
     "Databases/Prompt Library/Learning Prompts",
@@ -272,15 +265,7 @@
     "Computed/To Process.md",
     "Inbox/Smartphone Capture/2022-12-11--11-59-30.md",
     "Databases/Recipes/Instant Pot Fried Rice.md",
-    "Untitled 1.md",
-    "Databases/Recipes/Recipes.md",
-    "_tutorial/Hotkeys.md",
-    "README.md",
     "Databases/Recipes/Tool Prompts",
-    "Databases/CRM/CRM.md",
-    "Databases/Workouts/Squats.md",
-    "Inbox/Inbox.md",
-    "Inbox/Computer Capture/Computer Capture.md",
     "Databases/Prompt Library/Tool Prompts",
     "Databases/Prompt Library",
     "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",

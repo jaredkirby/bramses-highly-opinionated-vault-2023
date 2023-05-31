@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Prompt Purpose - Tool Prompt",
-      "path": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+      "basename": "Kanban",
+      "path": "_PARA/Projects/LLM Task Process/Kanban.md"
     },
     {
-      "basename": "Discipline of Study - DoS - Tool Prompt",
-      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
+      "basename": "LLM Task Process",
+      "path": "_PARA/Projects/LLM Task Process/LLM Task Process.md"
     },
     {
       "basename": "Kanban",
@@ -15,6 +15,30 @@
     {
       "basename": "CPL",
       "path": "_PARA/Projects/CPL/CPL.md"
+    },
+    {
+      "basename": "Prompt Purpose - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Prompt Purpose - Tool Prompt.md"
+    },
+    {
+      "basename": "_PARA",
+      "path": "_PARA/_PARA.md"
+    },
+    {
+      "basename": "Scratchpad",
+      "path": "_PARA/Projects/CPL/Scratchpad.md"
+    },
+    {
+      "basename": "2023-05-31",
+      "path": "2023-05-31.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "_PARA/Projects/CPL/Resources.md"
+    },
+    {
+      "basename": "Discipline of Study - DoS - Tool Prompt",
+      "path": "Databases/Prompt Library/Tool Prompts/Discipline of Study - DoS - Tool Prompt.md"
     },
     {
       "basename": "2023-05-29",
@@ -175,30 +199,6 @@
     {
       "basename": "The_dress_blueblackwhitegold",
       "path": "_tutorial/Attachments/The_dress_blueblackwhitegold.jpeg"
-    },
-    {
-      "basename": "calendar",
-      "path": "_tutorial/Attachments/calendar.png"
-    },
-    {
-      "basename": "Resources",
-      "path": "_PARA/Projects/CPL/Resources.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "_PARA/Projects/Projects.md"
-    },
-    {
-      "basename": "_PARA",
-      "path": "_PARA/_PARA.md"
-    },
-    {
-      "basename": "2022-12-15-14-50-23",
-      "path": "Inbox/Computer Capture/2022-12-15-14-50-23.md"
-    },
-    {
-      "basename": "2022-12-11--12-00-00",
-      "path": "Inbox/Computer Capture/2022-12-11--12-00-00.md"
     }
   ],
   "omittedPaths": [],

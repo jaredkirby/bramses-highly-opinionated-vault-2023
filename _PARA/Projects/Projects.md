@@ -6,11 +6,8 @@ date modified: Wednesday, December 14th 2022, 3:33:55 pm
 ---
 
 %% Begin Waypoint %%
-- **CPL**
-	- [[CPT]]
-	- [[Kanban]]
-	- [[Resources]]
-	- [[Scratchpad]]
+- **[[CPL]]**
+- **[[LLM Task Process]]**
 - **[[Test Project]]**
 - **[[Test Project 2]]**
 
